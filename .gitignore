@@ -1,0 +1,6 @@
+# Never commit unencrypted project data or secrets to this public repo.
+data/
+site/
+.env
+.env.*
+.staticrypt.json
